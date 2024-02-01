@@ -19,10 +19,10 @@ while True:
 	screenshot = pyautogui.screenshot()
 	screenshot = cv2.cvtColor(np.array(screenshot), cv2.COLOR_RGB2BGR)
 
-	if execute(screenshot,'finish', 500):
+	if execute(screenshot, 'finish', 500):
 		pyautogui.click(x=1180, y=950)
 
-	elif execute(screenshot, 'resin', 100):
+	elif execute(screenshot, 'resin', 450):
 		pyautogui.click(x=1180, y=735)
 
 	elif execute(screenshot, 'resin2', 100):
