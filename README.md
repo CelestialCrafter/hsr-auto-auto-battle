@@ -21,3 +21,7 @@ tested on Windows 10, dont know about 11 and above
 
 ## tested:
 - Cavern of Corrosion: Path of Conflagration
+
+## faq:
+**Q: will this get me banned?**
+**A:** most likely no, it moves and clicks the mouse automatically, which hoyoverse (probably) doesnt monitor
