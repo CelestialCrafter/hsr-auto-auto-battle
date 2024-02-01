@@ -23,14 +23,14 @@ def main_loop(trailblaze_power_refill=True, debug=''):
 			pyautogui.click(x=1180, y=950)
 
 		elif trailblaze_power_refill:
-			if execute(screenshot, 'resin', 450, debug=debug):
+			if execute(screenshot, 'tb_power', 450, debug=debug):
 				pyautogui.click(x=1180, y=735)
 
-			elif execute(screenshot, 'resin2', 100, debug=debug):
+			elif execute(screenshot, 'tb_power2', 100, debug=debug):
 				pyautogui.click(x=1400, y=690)
 				time.sleep(1)
 				pyautogui.click(x=1180, y=800)
-			elif execute(screenshot, 'resin3', 100, debug=debug):
+			elif execute(screenshot, 'tb_power3', 100, debug=debug):
 				pyautogui.click(x=950, y=950)
 
 		time.sleep(1 / 15)
