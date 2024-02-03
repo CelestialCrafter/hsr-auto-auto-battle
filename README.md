@@ -21,6 +21,7 @@ tested on Windows 10, dont know about 11 and above
 
 ## tested:
 - Cavern of Corrosion: Path of Conflagration
+- Stagnant Shadow: Shape of Quanta
 
 ## faq:
 **Q: will this get me banned?**
