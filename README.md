@@ -1,4 +1,7 @@
 # hsr-auto-auto-battle
+
+ **this project is complete.**
+
 fully automatic battling for Honkai Star Rail
 
 ## features:
